@@ -1,0 +1,20 @@
+ul{
+  ;
+}
+
+li{
+  display: inline;
+  float: right;
+  display: block;
+  padding: 8px;
+  
+}
+.connexion{
+  background-color: blue;
+  color: white;
+
+
+}
+.milieu{
+  text-align: center
+}
